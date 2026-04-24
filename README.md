@@ -58,4 +58,4 @@ This website showcases my academic work, research projects, leadership experienc
 
 © Adrian Mehran. All rights reserved.
 
-This website and its content may not be copied, reproduced, or distributed without permission.
+This website may be shared freely via its public link. However, its content may not be copied, reproduced, or modified without prior permission.
