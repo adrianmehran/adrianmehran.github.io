@@ -99,7 +99,7 @@ const translations = {
       ted: {
         pill: "TED-Ed · 2021",
         title: "Robotic Surgery Presentation",
-        meta: "Guest Speaker · Global",
+        meta: "Presenter and Speaker · Global",
         body: "Researched and delivered a TED-Ed talk on the future of medicine and robotic surgery.",
         link: "Watch video",
       },
@@ -108,7 +108,7 @@ const translations = {
       title: "Leadership & Conferences",
       subtitle: "Speaking, chairing, and policy leadership.",
       conference: {
-        title: "Globeducate Leadership Conference — Guest Speaker",
+        title: "Globeducate Leadership Conference — Presenter and Speaker",
         meta: "Madrid, Spain",
         body: "Selected as 1 of 4 students out of 42,000 globally to present on leadership and innovation.",
       },
@@ -119,9 +119,9 @@ const translations = {
         item2: "Served as Head Chair of the Security Council at GlobeducateMUN 2026.",
       },
       epp: {
-        title: "European Pupil’s Parliament — Chairperson (EPP)",
-        meta: "Strasbourg, France / Remote",
-        body: "Presided over sessions on youth-led policy and European governance.",
+        title: "European Pupil’s Parliament — Chairperson of the EPP (European People's Party)",
+        meta: "European Parliament, Strasbourg, France",
+        body: "Served as Chairperson of the EPP in the ENG/FRA Committee, leading party coordination, directing legislative amendment work, chairing meetings, and shaping cross-party negotiation strategy.",
       },
     },
     experience: {
@@ -135,14 +135,14 @@ const translations = {
       },
       water: {
         title: "DropByDrop Water Initiative — Founder & Project Lead",
-        meta: "Nice, France · 2025—2026",
+        meta: "Nice, France · 2025-2026",
         item1: "Led an interdisciplinary project on water scarcity.",
         item2: "<strong>Raised 351€</strong> for TeamWater, funding clean water access for 351 individuals.",
         item3: "Designed and coded a public awareness website (HTML/CSS).",
         link: "Visit project",
       },
       tennis: {
-        title: "Tennis Instruction — Student Coach (Volunteering)",
+        title: "Tennis Instruction — Volunteer Tennis Coach",
         meta: "Nice Lawn Tennis Club, France · 2025",
         body: "Taught tennis to children for a full year, focusing on skill development, confidence, and fitness.",
       },
@@ -326,7 +326,7 @@ const translations = {
       ted: {
         pill: "TED-Ed · 2021",
         title: "Présentation sur la chirurgie robotique",
-        meta: "Intervenant invité · International",
+        meta: "Présentateur et orateur · International",
         body: "Recherche et présentation d’une conférence TED-Ed sur l’avenir de la médecine et de la chirurgie robotique.",
         link: "Voir la vidéo",
       },
@@ -335,7 +335,7 @@ const translations = {
       title: "Leadership & conférences",
       subtitle: "Prise de parole, présidence de comités et leadership en matière de politiques.",
       conference: {
-        title: "Globeducate Leadership Conference — intervenant invité",
+        title: "Globeducate Leadership Conference — Présentateur et orateur",
         meta: "Madrid, Espagne",
         body: "Sélectionné parmi 4 élèves sur 42 000 dans le monde pour présenter sur le leadership et l’innovation.",
       },
@@ -346,9 +346,9 @@ const translations = {
         item2: "Head Chair du Conseil de sécurité lors de GlobeducateMUN 2026.",
       },
       epp: {
-        title: "European Pupil’s Parliament — président de séance (EPP)",
-        meta: "Strasbourg, France / à distance",
-        body: "Présidence de sessions sur les politiques portées par les jeunes et la gouvernance européenne.",
+        title: "Parlement Européen des Lycéens (PEL) — Président du PPE (Parti Populaire Européen) ",
+        meta: "Parlement Européen, Strasbourg, France",
+        body: "Président du PPE au sein de la commission ENG/FRA, responsable de la coordination du parti, du travail d’amendement législatif, de la présidence des réunions et de la stratégie de négociation interpartis.",
       },
     },
     experience: {
@@ -362,14 +362,14 @@ const translations = {
       },
       water: {
         title: "Initiative DropByDrop — fondateur & responsable de projet",
-        meta: "Nice, France · 2025—2026",
+        meta: "Nice, France · 2025-2026",
         item1: "Pilotage d’un projet interdisciplinaire sur la pénurie d’eau.",
         item2: "<strong>351 € collectés</strong> pour TeamWater, finançant l’accès à l’eau potable pour 351 personnes.",
         item3: "Conception et développement d’un site public de sensibilisation (HTML/CSS).",
         link: "Voir le projet",
       },
       tennis: {
-        title: "Enseignement du tennis — coach étudiant (bénévolat)",
+        title: "Enseignement du tennis — moniteur de tennis bénévole",
         meta: "Nice Lawn Tennis Club, France · 2025",
         body: "Enseignement du tennis à des enfants pendant une année complète, avec un accent sur la technique, la confiance et la condition physique.",
       },
