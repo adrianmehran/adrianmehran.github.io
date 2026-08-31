@@ -12,7 +12,7 @@ const translations = {
   en: {
     meta: {
       description:
-        "Adrian Mehran is a Grade 10 student in Nice, France, interested in neuroscience, AI in medicine, leadership, and global health. Explore his CV, research, and projects.",
+        "Adrian Mehran is a Grade 11 IB Diploma student in Nice, France, interested in neuroscience, AI in medicine, leadership, and global health. Explore his CV, research, and projects.",
     },
     skip: "Skip to content",
     brand: {
@@ -50,7 +50,7 @@ const translations = {
     profile: {
       aria: "Profile",
       avatarAlt: "Portrait of Adrian Mehran",
-      role: "· Grade 10 IGCSE Student (2024—current)<br>· Candidate for IB Diploma Programme (2026—2028)",
+      role: "· Grade 11 IB Diploma Student",
       contactLinks: "Contact links",
       school: "International School of Nice, France",
       email: "Email",
@@ -62,20 +62,21 @@ const translations = {
       subtitle: "Academic trajectory, results, and leadership roles.",
       igcse: {
         title: "IGCSE Programme (Cambridge & Pearson Edexcel)",
-        meta: "Grade 9-10 · 2024-current",
+        meta: "Grade 9-10 · 2024-2026",
         item1: "<strong>Academic standing:</strong> Ranked 1st in cohort throughout middle & high school.",
         item2:
-          "<strong>Key results:</strong> Math Extended (A*), Science Double Award (9/9), Computer Science (A*), English Language & Literature (A*), French First Language (A*).",
-        item3: "<strong>Acceleration:</strong> Advanced directly from Grade 4 to Grade 6.",
-        item4: "<strong>Leadership:</strong> Class Representative (Grades 9 & 10).",
+          "<strong>Official Results:</strong> A* in Math Extended, Science Double award, English First Language, French First Language, Spanish Foreign Language, World Literature, Global Perspectives, History, and A in Computer Science.",
+        item3: "<strong>Leadership:</strong> Class Representative (Grades 9 & 10).",
+        item4: "<strong>Acceleration:</strong> Advanced directly from Grade 4 to Grade 6.",
       },
       ib: {
         title: "IB Diploma Programme + American High School Diploma",
-        meta: "Grade 11-12 · 2026-2028",
+        meta: "Grade 11-12 · 2026-current",
         body:
           "Focusing on building depth in quantitative reasoning and research writing while sustaining extracurricular leadership and academic projects.",
         subjectsTitle: "Subject Choices",
-        subjects: "Biology HL, Chemistry HL, Mathematics AA HL, Psychology HL, English A SL, French A SL",
+        subjects:
+          "Biology HL, Chemistry HL, Mathematics Analysis and Approaches HL, Global Politics HL, English A: Language and Literature SL, French A: Language and Literature SL",
       },
     },
     research: {
@@ -86,7 +87,7 @@ const translations = {
         title: "AI in Medical Diagnosis",
         meta: "IGCSE Global Perspectives · Nice, France",
         item1: "Authored a report on AI’s role in medical treatment & diagnosis.",
-        item2: "Achieved a perfect mock score (A*) for research and team-project components.",
+        item2: "Achieved a perfect score (A*) for research and team-project components.",
         item3: "Recognized for “forensic precision” and sophisticated analysis.",
       },
       essay: {
@@ -127,6 +128,14 @@ const translations = {
     experience: {
       title: "Experience & Volunteering",
       subtitle: "Clinical exposure, building initiatives, and coaching.",
+      monaco: {
+        title: "Cardiothoracic Center of Monaco — Clinical Observation Intern",
+        meta: "Monte-Carlo, Monaco · 2026",
+        item1: "Completed a two-week clinical observation internship at the Cardiothoracic Center of Monaco.",
+        item2: "Observed cardiac diagnostic investigations, including MRI, CT scanning, and rhythmology.",
+        item3:
+          "Followed cardiac and vascular surgery in the operating theatre, alongside minimally invasive catheter-based procedures in interventional cardiology.",
+      },
       hospital: {
         title: "St. George Hospital — Clinical Observation Intern",
         meta: "Nice, France · 2025",
@@ -145,12 +154,6 @@ const translations = {
         title: "Tennis Instruction — Volunteer Tennis Coach",
         meta: "Nice Lawn Tennis Club, France · 2025",
         body: "Taught tennis to children for a full year, focusing on skill development, confidence, and fitness.",
-      },
-      objective: {
-        title: "Objective",
-        meta: "Long-term direction",
-        body:
-          "Aspiring neurosurgeon aiming to combine medical expertise with technological innovation—bringing analytical depth and interdisciplinary research at the intersection of medicine and ethics.",
       },
     },
     honors: {
@@ -239,7 +242,7 @@ const translations = {
   fr: {
     meta: {
       description:
-        "Adrian Mehran est élève en Grade 10 à Nice, en France, avec un intérêt pour les neurosciences, l’IA en médecine, le leadership et la santé mondiale. Découvrez son CV, ses recherches et ses projets.",
+        "Adrian Mehran est élève en Grade 11 du Programme du diplôme de l’IB à Nice, en France, avec un intérêt pour les neurosciences, l’IA en médecine, le leadership et la santé mondiale. Découvrez son CV, ses recherches et ses projets.",
     },
     skip: "Aller au contenu",
     brand: {
@@ -277,7 +280,7 @@ const translations = {
     profile: {
       aria: "Profil",
       avatarAlt: "Portrait d’Adrian Mehran",
-      role: "· Élève IGCSE en Grade 10 (2024—actuel)<br>· Candidat au Programme du diplôme de l’IB (2026—2028)",
+      role: "· Élève en Grade 11 du Programme du diplôme de l’IB",
       contactLinks: "Liens de contact",
       school: "International School of Nice, France",
       email: "E-mail",
@@ -289,20 +292,21 @@ const translations = {
       subtitle: "Parcours académique, résultats et responsabilités de leadership.",
       igcse: {
         title: "Programme IGCSE (Cambridge & Pearson Edexcel)",
-        meta: "Grade 9-10 · 2024-actuel",
+        meta: "Grade 9-10 · 2024-2026",
         item1: "<strong>Niveau académique :</strong> classé 1er de la cohorte tout au long du collège et du lycée.",
         item2:
-          "<strong>Résultats clés :</strong> Mathématiques Extended (A*), Science Double Award (9/9), Computer Science (A*), English Language & Literature (A*), French First Language (A*).",
-        item3: "<strong>Accélération :</strong> passage direct du Grade 4 au Grade 6.",
-        item4: "<strong>Leadership :</strong> délégué de classe (Grades 9 et 10).",
+          "<strong>Résultats officiels :</strong> A* en Mathématiques Extended, Science Double Award, English First Language, French First Language, Spanish Foreign Language, World Literature, Global Perspectives et History, et A en Computer Science.",
+        item3: "<strong>Leadership :</strong> délégué de classe (Grades 9 et 10).",
+        item4: "<strong>Accélération :</strong> passage direct du Grade 4 au Grade 6.",
       },
       ib: {
         title: "Programme du diplôme de l’IB + diplôme de fin d’études secondaires américain",
-        meta: "Grade 11-12 · 2026-2028",
+        meta: "Grade 11-12 · 2026-actuel",
         body:
           "Approfondissement du raisonnement quantitatif et de l’écriture de recherche, tout en poursuivant des responsabilités extrascolaires et des projets académiques.",
         subjectsTitle: "Choix des matières",
-        subjects: "Biology HL, Chemistry HL, Mathematics AA HL, Psychology HL, English A SL, French A SL",
+        subjects:
+          "Biology HL, Chemistry HL, Mathematics Analysis and Approaches HL, Global Politics HL, English A: Language and Literature SL, French A: Language and Literature SL",
       },
     },
     research: {
@@ -313,7 +317,7 @@ const translations = {
         title: "IA dans le diagnostic médical",
         meta: "IGCSE Global Perspectives · Nice, France",
         item1: "Rédaction d’un rapport sur le rôle de l’IA dans le traitement et le diagnostic médical.",
-        item2: "Obtention d’un score blanc parfait (A*) pour les composantes de recherche et de projet d’équipe.",
+        item2: "Obtention d’un score parfait (A*) pour les composantes de recherche et de projet d’équipe.",
         item3: "Travail reconnu pour sa « précision médico-légale » et son analyse sophistiquée.",
       },
       essay: {
@@ -354,6 +358,14 @@ const translations = {
     experience: {
       title: "Expérience & bénévolat",
       subtitle: "Exposition clinique, initiatives concrètes et encadrement.",
+      monaco: {
+        title: "Centre Cardio-Thoracique de Monaco — stagiaire en observation clinique",
+        meta: "Monte-Carlo, Monaco · 2026",
+        item1: "Stage d’observation clinique de deux semaines au Centre Cardio-Thoracique de Monaco.",
+        item2: "Observation d’examens diagnostiques cardiaques, notamment l’IRM, le scanner et la rythmologie.",
+        item3:
+          "Suivi d’interventions de chirurgie cardiaque et vasculaire au bloc opératoire, ainsi que de procédures mini-invasives par cathéter en cardiologie interventionnelle.",
+      },
       hospital: {
         title: "Hôpital St. George — stagiaire en observation clinique",
         meta: "Nice, France · 2025",
@@ -372,12 +384,6 @@ const translations = {
         title: "Enseignement du tennis — moniteur de tennis bénévole",
         meta: "Nice Lawn Tennis Club, France · 2025",
         body: "Enseignement du tennis à des enfants pendant une année complète, avec un accent sur la technique, la confiance et la condition physique.",
-      },
-      objective: {
-        title: "Objectif",
-        meta: "Orientation à long terme",
-        body:
-          "Aspirant neurochirurgien souhaitant associer expertise médicale et innovation technologique, avec une approche analytique et interdisciplinaire à l’intersection de la médecine et de l’éthique.",
       },
     },
     honors: {
